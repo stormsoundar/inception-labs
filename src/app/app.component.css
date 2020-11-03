@@ -1,0 +1,263 @@
+#main {
+  background-color: #faefd9;
+}
+aside {
+  height: 40px;
+  width: 100%;
+  background-color: #3150a2;
+}
+
+.nav {
+  display: flex;
+}
+
+.left-arrow {
+  border-bottom: 2px solid rgba(255, 255, 255, 0.75);
+  border-right: 2px solid rgba(255, 255, 255, 0.75);
+  cursor: pointer;
+  display: inline-block;
+  height: 1rem;
+  margin-right: 3rem;
+  transform: rotate(-225deg);
+  width: 1rem;
+  margin-top: 10px;
+  margin-left: 320px;
+  list-style: none;
+}
+
+.top {
+  color: rgba(255, 255, 255, 0.75);
+  margin-top: 10px;
+  list-style: none;
+  font-family: GT Walsheim Web, Helvetica, Trebuchet MS, sans-serif;
+  font-size: medium;
+}
+
+.right-arrow {
+  border-bottom: 2px solid rgba(255, 255, 255, 0.75);
+  border-right: 2px solid rgba(255, 255, 255, 0.75);
+  cursor: pointer;
+  display: inline-block;
+  height: 1rem;
+  margin-right: 1rem;
+  transform: rotate(-225deg);
+  width: 1rem;
+  margin-left: 3.3rem;
+  margin-right: 0;
+  transform: rotate(-45deg);
+  margin-top: 10px;
+  list-style: none;
+}
+
+header {
+  height: 70px;
+  background-color: #faefd9;
+  position: relative;
+  top: -16px;
+}
+
+.web {
+  height: 20px;
+  width: 20px;
+  padding-top: 30px;
+  fill: #3150a2;
+}
+
+.us {
+  outline: none;
+  border: none;
+  background-color: #faefd9;
+  position: relative;
+  top: -4px;
+  left: -3px;
+  color: #3150a2;
+}
+
+.or {
+  outline: none;
+  border: none;
+  background-color: #faefd9;
+  position: relative;
+  top: -5px;
+  left: -3px;
+  color: #3150a2;
+}
+
+.doll {
+  outline: none;
+  border: none;
+  background-color: #faefd9;
+  position: relative;
+  top: -4px;
+  left: -3px;
+  color: #3150a2;
+}
+
+.search {
+  height: 20px;
+  width: 20px;
+  padding-left: 90px;
+}
+
+.logo {
+  height: 35px;
+  max-width: 28px;
+  width: 100%;
+  padding-left: 350px;
+  position: relative;
+  top: -13px;
+  fill: #3150a2;
+}
+
+.title {
+  max-width: 123px;
+  width: 100%;
+  position: relative;
+  top: 10px;
+  left: -70px;
+}
+
+.sign {
+  outline: none;
+  border: none;
+  background-color: #faefd9;
+  position: relative;
+  top: -4px;
+  left: 240px;
+  color: #3150a2;
+}
+
+.heart {
+  height: 2rem;
+  width: 2em;
+  fill: transparent;
+  stroke: #3150a2;
+  position: relative;
+  top: 7px;
+  left: 265px;
+}
+.cart {
+  fill: #3150a2;
+  height: 23px;
+  width: 23px;
+  position: relative;
+  top: 2px;
+  left: 290px;
+}
+
+li {
+  list-style: none;
+}
+
+nav {
+  height: 35px;
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  font-family: "GT Pressura Web", "Arial Narrow", Arial, sans-serif;
+  color: #3150a2;
+}
+
+.nav-link {
+  width: 120px;
+  position: relative;
+  top: 13px;
+  bottom: 10px;
+  left: 40px;
+  font-size: small;
+}
+
+.main-img {
+  padding: 30px 60px 30px 60px;
+  height: 100%;
+  width: 90%;
+}
+
+figcaption {
+  height: 80px;
+  width: 550px;
+  position: relative;
+  left: 320px;
+  top: -90px;
+  text-align: center;
+  background-color: #faefd9;
+  padding-top: 1px;
+  color: #3150a2;
+  font-family: Canela Web, Big Caslon, Times New Roman, Times, serif;
+}
+
+.shopnow {
+  font-size: 13px;
+  font-family: GT Walsheim Web, Helvetica, Trebuchet MS, sans-serif;
+}
+
+.p-title {
+  text-align: center;
+  font-family: Canela Web, Big Caslon, Times New Roman, Times, serif;
+  font-size: 1.5rem;
+  color: #3150a2;
+  padding-top: 70px;
+}
+
+.s-age {
+  height: 160px;
+  width: 140px;
+  position: relative;
+  left: 5px;
+}
+
+.arrow {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  left: 60px;
+}
+
+.shop-age {
+  display: flex;
+  flex-direction: row;
+}
+
+.size {
+  height: 20px;
+  width: 70px;
+  position: relative;
+  left: 50px;
+}
+
+.css-nc05i0 {
+  height: 2.7rem;
+  margin-bottom: 1.2rem;
+  width: 2.7rem;
+}
+
+#img {
+ display: flex;
+ flex-direction: row;
+}
+
+.img {
+ height: 400px;
+ width: 400px;
+ padding: 70px;
+ position: relative;
+ left: 30px;
+}
+
+.list {
+  text-align: center;
+  font-family: Canela Web, Big Caslon, Times New Roman, Times, serif;
+  font-size: 1.5rem;
+  color: #3150a2;
+}
+
+.sh {
+  text-align: center;
+  font-family: Canela Web, Big Caslon, Times New Roman, Times, serif;
+  font-size: 0.7rem;
+  color: #3150a2;
+}
+
+.img2 {
+  border-radius: 50%;
+}
